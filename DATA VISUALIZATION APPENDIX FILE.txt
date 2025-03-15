@@ -1,0 +1,45 @@
+DATA VISUALIZATION APPENDIX FILE
+
+
+
+
+data = [
+    {'city': 'Chennai', 'visitor': 200, 'weekday': 'Sun', 'Temp' : 35},
+    {'city': 'Delhi', 'visitor': 250, 'weekday': 'Sun', 'Temp' : 30},
+    {'city': 'Mumbai', 'visitor': 300, 'weekday': 'Sun', 'Temp' : 25},
+    {'city': 'Kolkatta', 'visitor': 350, 'weekday': 'Sun', 'Temp' : 30},
+    {'city': 'Chennai', 'visitor': 150, 'weekday': 'Mon', 'Temp' : 35},
+    {'city': 'Delhi', 'visitor': 400, 'weekday': 'Mon', 'Temp' :30},
+    {'city': 'Mumbai', 'visitor': 400, 'weekday': 'Mon', 'Temp' : 25},
+    {'city': 'Kolkatta', 'visitor': 500, 'weekday': 'Mon', 'Temp' : 30}
+]
+
+
+
+
+
+https://pandas.pydata.org/pandas-docs/stable/user_guide/groupby.html
+
+
+
+data_new = [
+    {'city': 'Chennai', 'visitor': 200, 'weekday': 'Sun', 'Temp' : 35},
+    {'city': 'Delhi', 'visitor': 250, 'weekday': 'Sun', 'Temp' : 30},
+    {'city': 'Mumbai', 'visitor': 300, 'weekday': 'Sun', 'Temp' : 25},
+    {'city': 'Kolkatta', 'visitor': 350, 'weekday': 'Sun', 'Temp' : 30},
+    {'city': 'Chennai', 'visitor': 150, 'weekday': 'Mon', 'Temp' : 30},
+    {'city': 'Delhi', 'visitor': 400, 'weekday': 'Mon', 'Temp' :30},
+    {'city': 'Mumbai', 'visitor': 400, 'weekday': 'Mon', 'Temp' : 25},
+    {'city': 'Kolkatta', 'visitor': 500, 'weekday': 'Mon', 'Temp' : 30},
+    {'city': 'Chennai', 'visitor': 200, 'weekday': 'Sun', 'Temp' : 40},  # Adding this new recording for a day - afternoon
+    {'city': 'Chennai', 'visitor': 200, 'weekday': 'Sun', 'Temp' : 45},  # Adding this new recording for a day - evening
+    {'city': 'Chennai', 'visitor': 150, 'weekday': 'Mon', 'Temp' : 32}, # Adding this new recording for a day - afternoon
+    {'city': 'Chennai', 'visitor': 150, 'weekday': 'Mon', 'Temp' : 35} # Adding this new recording for a day - evening
+]
+
+
+https://matplotlib.org/stable/gallery/
+
+
+
+https://www.knime.com/sites/default/files/public/2024-03/cheat_sheet_data_visualization.pdf
