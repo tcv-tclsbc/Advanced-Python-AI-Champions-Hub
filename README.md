@@ -1,1 +1,1 @@
-This AI Champions Hub repository contains Jupyter notebook and PDF files of lectures in the  hands-on sessions given by Prof. S. T. Balaji in the Advanced Python in the Age of AI course.
+This AI Champions Hub repository contains Jupyter notebook and PDF files of lectures in the  hands-on sessions given by Prof. S. T. Balaji in the Advanced Python in the Age of AI course conducted by the Ramakrishna Mission Vivekananda College, Mylapore, Chennai-4 for the students studying B.Sc (Big Data Analytics) during January-April 2025.
